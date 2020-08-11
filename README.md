@@ -5,4 +5,4 @@ react native - shopping cart example
 
 Video : https://youtu.be/qXU1Ybr3GFk
 
-<img src="https://github.com/umair90/RNTumair/blob/master/screenshots/img.png" width="200" height="500" />
+<img src="https://github.com/umair90/RNTumair/blob/master/screenshots/img.png" width="300" height="400" />
