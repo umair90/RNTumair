@@ -1,6 +1,6 @@
 # RNTumair
 react native - shopping cart example
 
+![react native - shopping cart example](https://github.com/umair90/RNTumair/blob/master/screenshots/img.png)
 
-
-Project video : https://youtu.be/qXU1Ybr3GFk
+Video : https://youtu.be/qXU1Ybr3GFk
